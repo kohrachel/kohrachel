@@ -11,7 +11,7 @@ I'm studying Computer Science and Physics at Vanderbilt University in a futile a
 
 I've built a few hackathon-esque projects and my website, [kohrachel.com](https://kohrachel.com). 
 
-I'm also obsessed with matcha and half-sweet less-ice bubble milk tea from Chichasanchen. 
+I'm also obsessed with matcha and half-sweet less-ice bubble milk tea from Chichasanchen. Have I said that I really like matcha? 
 
 ## book recs (please share yours!)
 
