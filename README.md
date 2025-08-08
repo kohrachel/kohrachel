@@ -7,7 +7,7 @@ Email rachelkohhuiqi@gmail.com with the subject line "I Stalked Your GitHub".
 
 I code, [write](https://kohrachel.com/), and drink way too many matcha lattes. 
 
-I'm studying Computer Science and Physics at Vanderbilt University in a futile attempt to understand the quantum behavior of my code. All I've learned is that you really shouldn't give a physicist a cat, Emacs is annoying but will make people think you're a lot smarter than you are, and that React is really joyful. 
+I'm studying Computer Science and Physics at Vanderbilt University in a futile attempt to understand the quantum behavior of my code. All I've learned is that you really shouldn't give a physicist a cat, Emacs is annoying but will make people think you're a lot smarter than you are, and that React is really [joyful](https://joyofreact.com). 
 
 I've built a few hackathon-esque projects and my website, [kohrachel.com](https://kohrachel.com). 
 
